@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_add_teachers"
+        android:icon="@drawable/teacher_avtar"
+        android:title="Add Faculty"/>
+
+    <item
+        android:id="@+id/navigation_whatsapp"
+        android:icon="@drawable/wp"
+        android:title="WhatsApp Help Line"/>
+
+    <item
+        android:id="@+id/navigation_facebook"
+        android:icon="@drawable/fb"
+        android:title="Facebook"/>
+
+    <item
+        android:id="@+id/navigation_ebooks"
+        android:icon="@drawable/ic_book"
+        android:title="Ebooks" />
+
+    <item
+        android:id="@+id/navigation_share"
+        android:icon="@drawable/ic_share"
+        android:title="Share"  />
+
+    <item
+        android:id="@+id/navigation_rate"
+        android:icon="@drawable/ic_rate_us"
+        android:title="Rate Us" />
+
+    <item
+        android:id="@+id/navigation_admin"
+        android:icon="@drawable/ic_admin"
+        android:title="Admin Portal" />
+
+
+    <item
+        android:id="@+id/navigation_classFive"
+        android:icon="@drawable/ic_book"
+        android:title="Admin Class Five" />
+
+    <item
+        android:id="@+id/navigation_classSix"
+        android:icon="@drawable/ic_book"
+        android:title="Admin Class Six" />
+
+    <item
+        android:id="@+id/navigation_classSeven"
+        android:icon="@drawable/ic_book"
+        android:title="Admin Class Seven" />
+
+    <item
+        android:id="@+id/navigation_classEight"
+        android:icon="@drawable/ic_book"
+        android:title="Admin Class Eight" />
+
+    <item
+        android:id="@+id/navigation_classNine"
+        android:icon="@drawable/ic_book"
+        android:title="Admin Class Nine" />
+
+    <item
+        android:id="@+id/navigation_classTen"
+        android:icon="@drawable/ic_book"
+        android:title="Admin Class Ten" />
+    <item
+        android:id="@+id/navigation_classEleven"
+        android:icon="@drawable/ic_book"
+        android:title="Admin Class Eleven" />
+
+    <item
+        android:id="@+id/navigation_classTwelve"
+        android:icon="@drawable/ic_book"
+        android:title="Admin Class Twelve" />
+
+</menu>

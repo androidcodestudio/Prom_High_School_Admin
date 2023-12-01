@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Prom High School Admin</string>
+
+
+    <string name="go">GO</string>
+    <string name="with_bookmarks">If u want start with bookmarks (press here)</string>
+    <string name="time_pass">Time pass with me</string>
+    <string name="category">All Subject,s</string>
+    <string name="titles">Titles</string>
+    <string name="index">Index</string>
+    <string name="sets">99</string>
+    <string name="your_score_is">Your score is :  </string>
+    <string name="out_of">Out of :</string>
+    <string name="done">Done</string>
+
+
+    <string name="AllSubject">All Subject Class (v)</string>
+    <string name="title_activity_news_feed">NewsFeedActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="home">Home</string>
+    <string name="news_feed">News Feed</string>
+    <string name="faculty">Faculty</string>
+    <string name="gallery">Gallery</string>
+    <string name="my_account">My Account</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="start">Start</string>
+    <string name="close">Close</string>
+
+    <string name="about">Our school was established on 1972. Its became Junior High </string>
+    <string name="delete_information">Delete Information</string>
+    <string name="update_information">Update Information</string>
+    <string name="update_teacher_post">Update Teacher Post</string>
+    <string name="update_teacher_email">Update Teacher Email</string>
+    <string name="update_teacher_name">Update Teacher Name</string>
+    <string name="update_setno">Update SetNo</string>
+    <string name="update_subject_icon">Update Subject Info</string>
+    <string name="update_subject_name">Update Subject Name</string>
+    <string name="update_subject_set">Update Subject Set</string>
+    <string name="update_class_information">Update Class Information</string>
+
+    <string-array name="theme">
+        <item> System Default </item>
+        <item> Dark </item>
+        <item> Light </item>
+    </string-array>
+</resources>

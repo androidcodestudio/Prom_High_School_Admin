@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_margin="4dp"
+        android:padding="16dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center_vertical">
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:layout_width="36dp"
+                android:layout_height="36dp"
+                android:src="@color/toolbar"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textSize="15sp"
+                    android:textStyle="bold"
+                    android:background="@color/toolbar"
+                    android:layout_marginStart="16dp"/>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_marginTop="5dp">
+
+                    <TextView
+                        android:layout_width="50dp"
+                        android:layout_height="wrap_content"
+                        android:background="@color/toolbar"
+                        android:fontFamily="@font/latobold"
+                        android:textSize="@dimen/text_size01"
+                        android:textStyle="bold"
+                        android:textColor="@color/textColor"
+                        android:layout_marginStart="16dp"/>
+
+                    <TextView
+                        android:id="@+id/date"
+                        android:layout_width="70dp"
+                        android:layout_height="wrap_content"
+                        android:background="@color/toolbar"
+                        android:fontFamily="@font/latobold"
+                        android:textSize="@dimen/text_size01"
+                        android:textStyle="bold"
+                        android:layout_marginStart="16dp"/>
+
+                    <TextView
+                        android:layout_width="50dp"
+                        android:layout_height="wrap_content"
+                        android:background="@color/toolbar"
+                        android:fontFamily="@font/latobold"
+                        android:textSize="@dimen/text_size01"
+                        android:textStyle="bold"
+                        android:layout_marginLeft="@dimen/text_margin"
+                        android:layout_marginStart="16dp"/>
+
+                    <TextView
+                        android:id="@+id/time"
+                        android:layout_width="50dp"
+                        android:layout_height="wrap_content"
+                        android:background="@color/toolbar"
+                        android:fontFamily="@font/latobold"
+                        android:textSize="@dimen/text_size01"
+                        android:textStyle="bold"
+                        android:layout_marginStart="16dp"/>
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/deleteNoticeTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="17sp"
+            android:background="@color/toolbar"
+            android:layout_marginVertical="@dimen/text_margin"/>
+
+        <ImageView
+            android:id="@+id/deleteNoticeImage"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:scaleType="fitXY"
+            android:src="@color/toolbar"/>
+
+    </LinearLayout>
+
+
+</androidx.cardview.widget.CardView>

@@ -1,0 +1,257 @@
+{
+  "project_info": {
+    "project_number": "913206876710",
+    "firebase_url": "https://exam-979e3-default-rtdb.firebaseio.com",
+    "project_id": "exam-979e3",
+    "storage_bucket": "exam-979e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913206876710:android:b55f0786783f697a61e4e7",
+        "android_client_info": {
+          "package_name": "com.androidcodestudio.meetingpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913206876710-82prqbjhirht03npchp3rbfrm8aro4je.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnNi0xtRJHymyAw8HbnwqaLc5qKsSU000"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "913206876710-82prqbjhirht03npchp3rbfrm8aro4je.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-5082541445865756~1973900604"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913206876710:android:9385d5943daecf2f61e4e7",
+        "android_client_info": {
+          "package_name": "com.androidcodestudio.promhighschool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913206876710-82prqbjhirht03npchp3rbfrm8aro4je.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnNi0xtRJHymyAw8HbnwqaLc5qKsSU000"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "913206876710-82prqbjhirht03npchp3rbfrm8aro4je.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913206876710:android:849e2d6e296e9b5361e4e7",
+        "android_client_info": {
+          "package_name": "com.androidcodestudio.promhsadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913206876710-82prqbjhirht03npchp3rbfrm8aro4je.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnNi0xtRJHymyAw8HbnwqaLc5qKsSU000"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "913206876710-82prqbjhirht03npchp3rbfrm8aro4je.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913206876710:android:fdfc2997a6d2c12b61e4e7",
+        "android_client_info": {
+          "package_name": "com.androidcodestudio.rathtala"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913206876710-66e56hjufi5m9lfpc77l8tlptri80dhe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.androidcodestudio.rathtala",
+            "certificate_hash": "f8d56477828d775e9cde6726ea56b4ce568e7423"
+          }
+        },
+        {
+          "client_id": "913206876710-naafi73seqfbg1u0hl8a1i0iq8o7eai6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.androidcodestudio.rathtala",
+            "certificate_hash": "2ef53ca803f99e55307aa8a410efce9c6d87adfc"
+          }
+        },
+        {
+          "client_id": "913206876710-82prqbjhirht03npchp3rbfrm8aro4je.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnNi0xtRJHymyAw8HbnwqaLc5qKsSU000"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "913206876710-82prqbjhirht03npchp3rbfrm8aro4je.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-5082541445865756~6527064149"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913206876710:android:a862e03fe1790ee561e4e7",
+        "android_client_info": {
+          "package_name": "com.androidcodestudio.rathtalacolonyhighschool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913206876710-3ka8suv1mj17v1l46nabfjagvhhv2ohq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.androidcodestudio.rathtalacolonyhighschool",
+            "certificate_hash": "cec76bdbab33a295c919c7e668306fbe3ef83a12"
+          }
+        },
+        {
+          "client_id": "913206876710-82prqbjhirht03npchp3rbfrm8aro4je.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnNi0xtRJHymyAw8HbnwqaLc5qKsSU000"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "913206876710-82prqbjhirht03npchp3rbfrm8aro4je.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-5082541445865756~5251742588"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913206876710:android:3b0c41905196f12561e4e7",
+        "android_client_info": {
+          "package_name": "com.androidcodestudio.rathtalacolonyhsadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913206876710-e4rtcj479jgo22stdniu0abu627eh84t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.androidcodestudio.rathtalacolonyhsadmin",
+            "certificate_hash": "cec76bdbab33a295c919c7e668306fbe3ef83a12"
+          }
+        },
+        {
+          "client_id": "913206876710-82prqbjhirht03npchp3rbfrm8aro4je.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnNi0xtRJHymyAw8HbnwqaLc5qKsSU000"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "913206876710-82prqbjhirht03npchp3rbfrm8aro4je.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913206876710:android:4c063bdc8fbfafff61e4e7",
+        "android_client_info": {
+          "package_name": "com.example.bharatsarbikprasikhankendrabspk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "913206876710-uptedgt64q9ojmet6t2d37t9mo5qd6p9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bharatsarbikprasikhankendrabspk",
+            "certificate_hash": "f8d56477828d775e9cde6726ea56b4ce568e7423"
+          }
+        },
+        {
+          "client_id": "913206876710-82prqbjhirht03npchp3rbfrm8aro4je.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnNi0xtRJHymyAw8HbnwqaLc5qKsSU000"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "913206876710-82prqbjhirht03npchp3rbfrm8aro4je.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

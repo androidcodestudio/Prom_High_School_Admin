@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:layout_margin="15dp"
+    android:background="@color/white">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/update_class_information"
+        android:gravity="center"
+        android:textColor="@color/colorAccent"
+        android:textStyle="bold"
+        android:textSize="20sp"/>
+
+    <LinearLayout
+        android:id="@+id/addImage"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal">
+
+        <FrameLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:layout_width="130dp"
+                android:layout_height="120dp"
+                android:src="@drawable/default_profile_image"
+                android:id="@+id/class_icon"
+                app:civ_border_color="@color/colorAccent"
+                app:civ_border_width="2dp"
+                android:elevation="10dp"
+                app:civ_border_overlay="true"
+                android:layout_marginTop="10dp"/>
+
+            <ImageView
+                android:padding="7dp"
+                android:id="@+id/editPhotoIcon"
+                android:layout_width="42dp"
+                android:layout_height="42dp"
+                android:background="@drawable/green_circle"
+                android:elevation="@dimen/text_size"
+                android:layout_marginStart="100dp"
+                android:layout_marginTop="80dp"
+                android:src="@drawable/baseline_add_24"
+                android:visibility="visible"/>
+
+        </FrameLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:layout_marginTop="5dp">
+            <TextView
+                android:id="@+id/userProfileStatus"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Change Subject Icon"
+                android:textStyle="bold"
+                android:layout_marginTop="5dp"
+                android:textColor="@color/black"/>
+            <ImageView
+                android:id="@+id/statusEdit"
+                android:layout_marginStart="10dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ic_edit_border"/>
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/update_bg"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Update Background Color #000000"
+            android:textColor="@color/textColor"
+            android:inputType="text"/>
+    </com.google.android.material.textfield.TextInputLayout>
+
+
+    <Spinner
+        android:id="@+id/classname"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:spinnerMode="dropdown"
+        android:background="@android:drawable/btn_dropdown"
+        android:gravity="center"
+        android:layout_marginTop="16dp"/>
+
+    <Spinner
+        android:id="@+id/indexing"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:spinnerMode="dropdown"
+        android:background="@android:drawable/btn_dropdown"
+        android:gravity="center"
+        android:layout_marginVertical="16dp"
+        android:layout_marginTop="5dp"/>
+
+    <Button
+        android:id="@+id/add_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="16dp"
+        android:background="@drawable/mock_test_btn"
+        android:text="Update Class Info"
+        android:textStyle="bold"
+        android:textColor="@color/white"/>
+
+
+
+</LinearLayout>
